@@ -1,0 +1,501 @@
+material,material_description,brand_description,base_unit_of_measure,prod_flavour_description,category,sub_category,launch_date
+100000,400ML Fanta Orange,Sprite,CS,Mango,CSD,Glass Bottle,2022-04-10
+100001,1000ML Sprite Orange,Minute Maid,CS,Mango,Water,PET Bottle,2023-04-07
+100002,250ML Kinley Mango,Sprite,CS,Lemon,CSD,PET Bottle,2021-04-20
+100003,500ML Fanta Mango,CocaCola,CS,Lemon,Water,Can,2021-11-04
+100004,400ML CocaCola Orange,Sprite,CS,Orange,Juice,Can,2022-02-06
+100005,500ML Kinley Cola,Kinley,CS,Lemon,Juice,Can,2023-03-11
+100006,250ML Fanta Orange,CocaCola,CS,Cola,Water,Can,2022-12-10
+100007,250ML CocaCola Mango,CocaCola,CS,Mango,Water,Glass Bottle,2021-06-08
+100008,500ML Fanta Cola,Fanta,CS,Orange,Juice,Glass Bottle,2021-09-26
+100009,400ML Kinley Mango,Kinley,CS,Cola,Juice,Can,2023-08-18
+100010,400ML CocaCola Lemon,Kinley,CS,Mango,CSD,Glass Bottle,2022-08-07
+100011,400ML Fanta Cola,Minute Maid,CS,Cola,Juice,PET Bottle,2022-04-08
+100012,500ML Sprite Mango,Sprite,CS,Lemon,CSD,Glass Bottle,2023-09-27
+100013,400ML CocaCola Orange,Sprite,CS,Cola,Water,Glass Bottle,2023-02-17
+100014,400ML Fanta Mango,Kinley,CS,Lemon,Juice,PET Bottle,2023-06-16
+100015,1000ML Sprite Orange,Sprite,CS,Cola,Water,Glass Bottle,2021-07-26
+100016,400ML CocaCola Cola,Kinley,CS,Orange,Juice,PET Bottle,2023-02-06
+100017,250ML Fanta Orange,CocaCola,CS,Lemon,Water,PET Bottle,2023-02-01
+100018,400ML Kinley Cola,Sprite,CS,Lemon,CSD,Glass Bottle,2021-05-11
+100019,500ML CocaCola Mango,Sprite,CS,Mango,Water,PET Bottle,2021-05-27
+100020,500ML CocaCola Orange,Kinley,CS,Lemon,Juice,Glass Bottle,2022-12-08
+100021,400ML Sprite Cola,Kinley,CS,Mango,Water,Can,2023-01-17
+100022,500ML Fanta Cola,Minute Maid,CS,Lemon,CSD,Glass Bottle,2022-10-29
+100023,500ML Kinley Cola,Sprite,CS,Lemon,Juice,PET Bottle,2022-09-13
+100024,400ML Sprite Lemon,Fanta,CS,Lemon,Juice,PET Bottle,2021-02-12
+100025,1000ML CocaCola Cola,Kinley,CS,Lemon,CSD,Glass Bottle,2021-06-18
+100026,1000ML Sprite Mango,Fanta,CS,Mango,CSD,PET Bottle,2021-03-01
+100027,1000ML Sprite Mango,CocaCola,CS,Orange,CSD,Can,2021-11-01
+100028,1000ML Sprite Mango,CocaCola,CS,Cola,Water,Can,2021-05-19
+100029,250ML CocaCola Cola,Fanta,CS,Lemon,Water,PET Bottle,2021-10-19
+100030,400ML Minute Maid Mango,CocaCola,CS,Lemon,CSD,Glass Bottle,2021-02-24
+100031,500ML Sprite Cola,Fanta,CS,Orange,CSD,Glass Bottle,2022-03-22
+100032,500ML Minute Maid Cola,Minute Maid,CS,Mango,Juice,Glass Bottle,2022-06-03
+100033,400ML Kinley Cola,Minute Maid,CS,Cola,Water,Glass Bottle,2023-02-06
+100034,500ML Kinley Lemon,CocaCola,CS,Orange,Juice,Glass Bottle,2022-01-09
+100035,250ML Kinley Orange,Fanta,CS,Orange,CSD,PET Bottle,2023-07-25
+100036,1000ML Fanta Mango,Fanta,CS,Orange,Juice,Glass Bottle,2021-09-26
+100037,400ML CocaCola Lemon,Fanta,CS,Orange,CSD,PET Bottle,2022-06-21
+100038,500ML Minute Maid Mango,CocaCola,CS,Lemon,Juice,PET Bottle,2021-07-05
+100039,250ML Fanta Lemon,Fanta,CS,Cola,Juice,Can,2023-07-14
+100040,500ML Minute Maid Orange,Kinley,CS,Lemon,CSD,Can,2021-10-06
+100041,250ML CocaCola Orange,Fanta,CS,Orange,Water,Can,2023-02-14
+100042,500ML Sprite Orange,Kinley,CS,Cola,Water,Glass Bottle,2022-01-03
+100043,1000ML Fanta Orange,Minute Maid,CS,Orange,CSD,Glass Bottle,2022-09-10
+100044,400ML CocaCola Cola,Kinley,CS,Mango,CSD,Can,2022-01-23
+100045,1000ML Fanta Mango,Minute Maid,CS,Orange,Water,Can,2021-06-07
+100046,1000ML Kinley Mango,CocaCola,CS,Orange,CSD,Glass Bottle,2023-08-19
+100047,500ML Fanta Mango,Minute Maid,CS,Mango,Water,Glass Bottle,2022-05-09
+100048,1000ML Sprite Cola,Minute Maid,CS,Lemon,Water,Can,2022-04-04
+100049,400ML Sprite Mango,Fanta,CS,Cola,Juice,PET Bottle,2021-05-03
+100050,250ML Minute Maid Orange,Sprite,CS,Orange,CSD,PET Bottle,2023-07-06
+100051,250ML Fanta Mango,Minute Maid,CS,Orange,CSD,Glass Bottle,2023-02-23
+100052,500ML Kinley Mango,Kinley,CS,Mango,Juice,Can,2023-06-19
+100053,400ML Sprite Lemon,CocaCola,CS,Cola,CSD,Can,2021-11-04
+100054,400ML Minute Maid Cola,Kinley,CS,Mango,Juice,Glass Bottle,2022-02-07
+100055,250ML Kinley Orange,CocaCola,CS,Orange,CSD,Can,2021-05-02
+100056,250ML Kinley Orange,Kinley,CS,Lemon,Juice,PET Bottle,2022-09-28
+100057,1000ML Kinley Orange,Minute Maid,CS,Lemon,Juice,Can,2022-01-13
+100058,500ML CocaCola Mango,Sprite,CS,Cola,CSD,Glass Bottle,2022-03-13
+100059,250ML Sprite Orange,Minute Maid,CS,Orange,CSD,Glass Bottle,2021-04-05
+100060,250ML CocaCola Orange,Fanta,CS,Mango,CSD,PET Bottle,2022-02-25
+100061,400ML CocaCola Lemon,Kinley,CS,Orange,Water,Glass Bottle,2021-09-11
+100062,400ML Sprite Mango,Sprite,CS,Mango,CSD,Glass Bottle,2022-10-17
+100063,400ML Fanta Lemon,Kinley,CS,Mango,Water,Glass Bottle,2021-10-15
+100064,250ML Minute Maid Cola,Fanta,CS,Cola,CSD,Glass Bottle,2022-07-04
+100065,500ML Sprite Mango,Fanta,CS,Mango,Water,PET Bottle,2022-10-20
+100066,1000ML Minute Maid Lemon,Fanta,CS,Cola,CSD,Can,2022-03-16
+100067,500ML Fanta Cola,Minute Maid,CS,Lemon,Juice,PET Bottle,2022-04-21
+100068,250ML Sprite Lemon,Minute Maid,CS,Cola,CSD,PET Bottle,2021-12-12
+100069,1000ML Kinley Cola,Sprite,CS,Cola,CSD,Glass Bottle,2022-12-16
+100070,500ML Sprite Orange,Fanta,CS,Cola,Water,Can,2022-09-26
+100071,250ML Fanta Orange,Minute Maid,CS,Lemon,Water,Can,2022-01-03
+100072,500ML CocaCola Mango,CocaCola,CS,Cola,CSD,PET Bottle,2021-10-01
+100073,250ML Sprite Lemon,CocaCola,CS,Mango,CSD,PET Bottle,2021-07-13
+100074,400ML Kinley Lemon,Minute Maid,CS,Mango,Juice,PET Bottle,2021-01-25
+100075,500ML Sprite Cola,Sprite,CS,Cola,Juice,PET Bottle,2021-01-22
+100076,400ML CocaCola Mango,Kinley,CS,Mango,Juice,Can,2022-02-25
+100077,400ML Sprite Orange,Fanta,CS,Cola,Water,Can,2022-09-24
+100078,1000ML Kinley Lemon,Minute Maid,CS,Lemon,Juice,Glass Bottle,2022-06-29
+100079,1000ML Fanta Cola,Sprite,CS,Mango,Water,PET Bottle,2022-02-17
+100080,500ML Kinley Orange,Kinley,CS,Cola,Water,Glass Bottle,2022-01-07
+100081,250ML Fanta Orange,Sprite,CS,Orange,Water,Can,2021-03-14
+100082,1000ML Kinley Orange,Kinley,CS,Lemon,Water,Glass Bottle,2023-03-13
+100083,1000ML Minute Maid Cola,CocaCola,CS,Orange,Water,Can,2021-05-20
+100084,400ML Sprite Cola,Kinley,CS,Cola,CSD,Glass Bottle,2023-07-30
+100085,400ML Sprite Orange,CocaCola,CS,Mango,CSD,Glass Bottle,2022-11-18
+100086,250ML CocaCola Cola,Fanta,CS,Cola,Water,PET Bottle,2022-02-07
+100087,1000ML Minute Maid Orange,Minute Maid,CS,Mango,Juice,Glass Bottle,2022-06-10
+100088,1000ML CocaCola Orange,CocaCola,CS,Cola,CSD,Can,2023-06-14
+100089,250ML Sprite Orange,Sprite,CS,Cola,CSD,Can,2022-01-16
+100090,1000ML CocaCola Cola,Kinley,CS,Mango,CSD,Glass Bottle,2022-12-04
+100091,500ML Fanta Mango,Sprite,CS,Mango,CSD,PET Bottle,2022-02-06
+100092,500ML Minute Maid Mango,CocaCola,CS,Cola,Water,PET Bottle,2021-04-20
+100093,250ML Kinley Cola,Sprite,CS,Orange,Water,Glass Bottle,2021-01-02
+100094,400ML Fanta Lemon,Kinley,CS,Lemon,Water,PET Bottle,2021-10-23
+100095,250ML Kinley Cola,Minute Maid,CS,Orange,CSD,Can,2023-09-21
+100096,500ML CocaCola Lemon,Sprite,CS,Orange,CSD,Can,2021-10-06
+100097,1000ML Sprite Orange,Fanta,CS,Orange,Juice,PET Bottle,2023-09-12
+100098,1000ML Fanta Lemon,Kinley,CS,Orange,Juice,Glass Bottle,2021-01-20
+100099,400ML Minute Maid Orange,Kinley,CS,Mango,Juice,Can,2021-02-03
+100100,400ML Kinley Mango,Fanta,CS,Orange,Water,Glass Bottle,2023-05-08
+100101,500ML Fanta Orange,CocaCola,CS,Lemon,Juice,Can,2023-01-03
+100102,400ML Sprite Lemon,Fanta,CS,Mango,Water,Can,2022-05-28
+100103,250ML Minute Maid Mango,CocaCola,CS,Orange,Water,PET Bottle,2023-09-12
+100104,500ML Minute Maid Mango,Minute Maid,CS,Mango,Water,Glass Bottle,2022-09-28
+100105,1000ML Kinley Cola,CocaCola,CS,Orange,Water,Can,2022-09-21
+100106,1000ML Fanta Lemon,Minute Maid,CS,Orange,CSD,Glass Bottle,2021-06-04
+100107,1000ML Fanta Lemon,Minute Maid,CS,Lemon,CSD,PET Bottle,2023-07-13
+100108,400ML Minute Maid Cola,Fanta,CS,Mango,Juice,Glass Bottle,2023-02-12
+100109,500ML CocaCola Cola,Minute Maid,CS,Mango,CSD,PET Bottle,2021-05-19
+100110,400ML Minute Maid Mango,CocaCola,CS,Cola,Juice,Can,2023-02-14
+100111,250ML Sprite Cola,Sprite,CS,Orange,Juice,PET Bottle,2023-08-22
+100112,500ML Fanta Mango,Kinley,CS,Orange,CSD,Can,2023-01-27
+100113,400ML Kinley Lemon,Kinley,CS,Lemon,Water,Can,2021-08-08
+100114,1000ML Fanta Cola,CocaCola,CS,Lemon,CSD,PET Bottle,2021-10-05
+100115,1000ML Minute Maid Lemon,Sprite,CS,Mango,Juice,Can,2021-08-01
+100116,250ML Sprite Mango,Minute Maid,CS,Lemon,Juice,Can,2022-09-12
+100117,250ML CocaCola Orange,CocaCola,CS,Mango,CSD,PET Bottle,2022-09-17
+100118,250ML Fanta Orange,Minute Maid,CS,Orange,Juice,PET Bottle,2023-08-05
+100119,1000ML Minute Maid Lemon,Fanta,CS,Orange,Water,PET Bottle,2022-11-12
+100120,400ML Minute Maid Mango,Sprite,CS,Mango,Juice,PET Bottle,2021-03-24
+100121,1000ML Minute Maid Mango,Kinley,CS,Lemon,CSD,Glass Bottle,2021-05-31
+100122,1000ML Sprite Orange,CocaCola,CS,Lemon,Water,Glass Bottle,2021-05-29
+100123,1000ML Minute Maid Mango,Kinley,CS,Mango,CSD,Glass Bottle,2022-03-24
+100124,400ML Minute Maid Mango,Minute Maid,CS,Orange,Water,PET Bottle,2021-04-25
+100125,1000ML Minute Maid Lemon,Minute Maid,CS,Mango,Juice,Glass Bottle,2022-03-16
+100126,250ML Fanta Orange,Fanta,CS,Lemon,CSD,Glass Bottle,2022-01-25
+100127,250ML Minute Maid Mango,Minute Maid,CS,Mango,Juice,Glass Bottle,2021-09-13
+100128,250ML Sprite Lemon,Minute Maid,CS,Orange,Water,Glass Bottle,2023-04-17
+100129,250ML Fanta Cola,Kinley,CS,Cola,Juice,Can,2021-07-28
+100130,1000ML Minute Maid Orange,Kinley,CS,Mango,Water,Can,2022-05-18
+100131,1000ML CocaCola Lemon,CocaCola,CS,Cola,CSD,PET Bottle,2022-03-09
+100132,1000ML Sprite Cola,CocaCola,CS,Mango,CSD,PET Bottle,2022-05-08
+100133,250ML CocaCola Mango,Minute Maid,CS,Lemon,Water,PET Bottle,2022-03-27
+100134,400ML Sprite Mango,Sprite,CS,Lemon,Water,Glass Bottle,2022-10-27
+100135,500ML CocaCola Cola,CocaCola,CS,Cola,Juice,Can,2022-08-05
+100136,500ML Minute Maid Lemon,Minute Maid,CS,Mango,CSD,Glass Bottle,2021-05-25
+100137,500ML CocaCola Mango,Kinley,CS,Lemon,Juice,PET Bottle,2023-08-21
+100138,400ML CocaCola Mango,Fanta,CS,Cola,CSD,Can,2023-03-09
+100139,1000ML Sprite Lemon,Kinley,CS,Cola,CSD,Can,2021-12-15
+100140,500ML Minute Maid Lemon,Kinley,CS,Mango,Juice,Glass Bottle,2023-01-08
+100141,500ML Sprite Cola,Fanta,CS,Lemon,Water,PET Bottle,2022-08-24
+100142,1000ML Minute Maid Mango,Kinley,CS,Cola,Water,PET Bottle,2021-04-30
+100143,500ML Kinley Lemon,CocaCola,CS,Orange,CSD,Glass Bottle,2021-09-02
+100144,1000ML Fanta Orange,Kinley,CS,Orange,Juice,Glass Bottle,2023-05-11
+100145,500ML Fanta Cola,Fanta,CS,Lemon,CSD,PET Bottle,2022-10-24
+100146,1000ML Sprite Cola,Minute Maid,CS,Lemon,Juice,PET Bottle,2021-11-02
+100147,250ML Minute Maid Cola,Minute Maid,CS,Orange,CSD,PET Bottle,2023-06-28
+100148,400ML CocaCola Cola,Minute Maid,CS,Cola,CSD,PET Bottle,2021-08-25
+100149,500ML Fanta Orange,Fanta,CS,Mango,Juice,Can,2022-01-02
+100150,1000ML Sprite Cola,Fanta,CS,Cola,Water,Glass Bottle,2021-05-17
+100151,250ML Sprite Cola,CocaCola,CS,Lemon,Juice,Can,2021-04-16
+100152,1000ML Sprite Lemon,Fanta,CS,Lemon,Juice,Can,2023-04-08
+100153,500ML Minute Maid Mango,Minute Maid,CS,Mango,Water,PET Bottle,2021-09-02
+100154,500ML Sprite Cola,Fanta,CS,Cola,Juice,Glass Bottle,2023-07-30
+100155,500ML Kinley Lemon,Sprite,CS,Mango,Juice,Can,2023-06-20
+100156,500ML CocaCola Lemon,Kinley,CS,Cola,Water,Glass Bottle,2022-07-20
+100157,500ML Sprite Mango,CocaCola,CS,Cola,Water,Can,2021-02-23
+100158,250ML Minute Maid Lemon,Minute Maid,CS,Orange,Juice,PET Bottle,2022-09-08
+100159,1000ML CocaCola Lemon,Minute Maid,CS,Cola,Water,PET Bottle,2023-06-16
+100160,1000ML CocaCola Cola,Sprite,CS,Lemon,Water,Glass Bottle,2022-04-19
+100161,500ML Fanta Cola,CocaCola,CS,Lemon,Water,PET Bottle,2022-06-28
+100162,1000ML Sprite Lemon,Kinley,CS,Lemon,CSD,PET Bottle,2023-06-04
+100163,250ML Sprite Orange,CocaCola,CS,Orange,Juice,Can,2023-04-16
+100164,500ML Minute Maid Mango,CocaCola,CS,Mango,Water,PET Bottle,2021-05-10
+100165,400ML Kinley Lemon,Minute Maid,CS,Lemon,Water,Glass Bottle,2022-03-30
+100166,250ML Kinley Lemon,Fanta,CS,Lemon,CSD,Can,2023-01-26
+100167,500ML Fanta Orange,Kinley,CS,Mango,Water,Can,2023-03-03
+100168,1000ML Kinley Mango,CocaCola,CS,Orange,Juice,Glass Bottle,2023-01-07
+100169,250ML Minute Maid Lemon,Sprite,CS,Cola,Juice,Glass Bottle,2023-05-28
+100170,500ML Fanta Lemon,Minute Maid,CS,Mango,CSD,Can,2022-02-12
+100171,1000ML Sprite Cola,Fanta,CS,Cola,Juice,Glass Bottle,2021-02-16
+100172,1000ML Kinley Lemon,Fanta,CS,Cola,Juice,PET Bottle,2021-04-23
+100173,500ML Minute Maid Orange,Minute Maid,CS,Cola,Water,Can,2021-05-14
+100174,250ML Minute Maid Lemon,CocaCola,CS,Mango,CSD,Can,2021-06-17
+100175,500ML Sprite Mango,Minute Maid,CS,Mango,Water,Can,2023-02-14
+100176,500ML Minute Maid Mango,Fanta,CS,Cola,CSD,Can,2022-12-04
+100177,500ML Fanta Orange,Fanta,CS,Orange,CSD,Can,2022-06-25
+100178,500ML Fanta Lemon,Sprite,CS,Orange,Water,Glass Bottle,2021-11-02
+100179,500ML CocaCola Lemon,Sprite,CS,Orange,Water,PET Bottle,2021-11-09
+100180,1000ML Sprite Lemon,Fanta,CS,Lemon,CSD,Glass Bottle,2022-07-23
+100181,500ML Minute Maid Lemon,Sprite,CS,Cola,Juice,Can,2022-07-08
+100182,250ML Kinley Lemon,Sprite,CS,Lemon,CSD,Glass Bottle,2022-01-18
+100183,400ML Fanta Mango,Sprite,CS,Orange,CSD,Glass Bottle,2021-04-02
+100184,500ML Sprite Cola,Fanta,CS,Mango,CSD,PET Bottle,2021-10-22
+100185,250ML Sprite Mango,CocaCola,CS,Orange,Juice,Can,2022-11-09
+100186,400ML Fanta Cola,CocaCola,CS,Lemon,Water,Can,2022-07-30
+100187,250ML CocaCola Mango,Kinley,CS,Lemon,Juice,Can,2021-08-20
+100188,1000ML Sprite Orange,Sprite,CS,Orange,Water,Can,2022-07-17
+100189,1000ML Minute Maid Lemon,CocaCola,CS,Cola,Water,Glass Bottle,2022-12-19
+100190,400ML Kinley Cola,Kinley,CS,Mango,Juice,Glass Bottle,2021-03-21
+100191,400ML Kinley Mango,Minute Maid,CS,Mango,Juice,Glass Bottle,2022-01-23
+100192,400ML Fanta Cola,Sprite,CS,Orange,Juice,PET Bottle,2021-04-27
+100193,1000ML Sprite Lemon,CocaCola,CS,Cola,Water,Can,2022-12-23
+100194,1000ML Kinley Orange,CocaCola,CS,Cola,Juice,Glass Bottle,2021-03-31
+100195,250ML Sprite Lemon,CocaCola,CS,Orange,Juice,PET Bottle,2022-03-24
+100196,1000ML Fanta Mango,Kinley,CS,Mango,Water,PET Bottle,2021-06-12
+100197,400ML CocaCola Mango,Minute Maid,CS,Mango,CSD,Glass Bottle,2021-09-27
+100198,500ML Kinley Cola,Sprite,CS,Mango,Juice,PET Bottle,2022-11-08
+100199,500ML Minute Maid Orange,CocaCola,CS,Cola,Water,PET Bottle,2022-04-23
+100200,400ML Fanta Orange,Fanta,CS,Orange,CSD,PET Bottle,2021-09-26
+100201,1000ML CocaCola Mango,Sprite,CS,Cola,CSD,Can,2022-11-05
+100202,400ML Minute Maid Cola,Fanta,CS,Mango,CSD,Glass Bottle,2022-03-21
+100203,1000ML Minute Maid Lemon,Kinley,CS,Cola,Juice,Can,2023-05-26
+100204,500ML Kinley Lemon,CocaCola,CS,Mango,CSD,PET Bottle,2022-10-09
+100205,250ML Sprite Mango,Sprite,CS,Orange,Water,Glass Bottle,2021-11-18
+100206,1000ML Fanta Mango,Sprite,CS,Mango,Water,PET Bottle,2022-02-28
+100207,250ML Minute Maid Lemon,CocaCola,CS,Lemon,Juice,PET Bottle,2022-04-22
+100208,500ML Kinley Lemon,Minute Maid,CS,Lemon,CSD,PET Bottle,2022-10-23
+100209,250ML CocaCola Lemon,Kinley,CS,Orange,CSD,Glass Bottle,2022-12-24
+100210,250ML Minute Maid Cola,CocaCola,CS,Cola,CSD,PET Bottle,2021-02-25
+100211,400ML CocaCola Orange,Sprite,CS,Cola,CSD,Can,2023-08-17
+100212,250ML Fanta Mango,Minute Maid,CS,Cola,CSD,Glass Bottle,2022-05-17
+100213,500ML Kinley Mango,Sprite,CS,Mango,Water,Glass Bottle,2021-12-29
+100214,1000ML CocaCola Cola,Fanta,CS,Lemon,CSD,PET Bottle,2022-02-16
+100215,250ML Sprite Lemon,Sprite,CS,Orange,Water,Can,2021-12-02
+100216,1000ML CocaCola Cola,Kinley,CS,Cola,Juice,Glass Bottle,2023-03-16
+100217,400ML CocaCola Lemon,CocaCola,CS,Cola,Juice,Can,2023-02-08
+100218,500ML Kinley Mango,Sprite,CS,Orange,Water,Glass Bottle,2022-10-12
+100219,500ML Kinley Orange,Fanta,CS,Mango,Juice,PET Bottle,2023-07-03
+100220,1000ML Minute Maid Cola,Fanta,CS,Cola,Juice,Can,2022-10-18
+100221,500ML CocaCola Lemon,CocaCola,CS,Mango,CSD,PET Bottle,2022-03-10
+100222,400ML CocaCola Mango,Fanta,CS,Mango,Water,Glass Bottle,2021-08-15
+100223,1000ML Kinley Orange,CocaCola,CS,Mango,Juice,Can,2022-10-14
+100224,500ML Sprite Cola,Kinley,CS,Cola,CSD,PET Bottle,2023-01-20
+100225,400ML Kinley Cola,CocaCola,CS,Cola,Water,Can,2021-06-10
+100226,400ML Sprite Mango,Minute Maid,CS,Orange,Water,Glass Bottle,2022-07-24
+100227,250ML Kinley Cola,Fanta,CS,Orange,CSD,Can,2023-01-08
+100228,500ML Fanta Mango,Fanta,CS,Mango,Water,Glass Bottle,2023-06-18
+100229,1000ML CocaCola Cola,Sprite,CS,Cola,CSD,Glass Bottle,2023-02-03
+100230,250ML Sprite Orange,Minute Maid,CS,Mango,Juice,Can,2021-07-09
+100231,1000ML Fanta Orange,Sprite,CS,Orange,Water,Can,2022-03-19
+100232,250ML Sprite Cola,CocaCola,CS,Mango,CSD,Glass Bottle,2022-06-23
+100233,400ML Minute Maid Mango,Kinley,CS,Lemon,CSD,PET Bottle,2021-02-25
+100234,250ML Minute Maid Lemon,Fanta,CS,Mango,CSD,Can,2022-05-13
+100235,250ML CocaCola Cola,Kinley,CS,Cola,Water,Glass Bottle,2021-05-23
+100236,250ML Fanta Lemon,CocaCola,CS,Mango,Water,Glass Bottle,2022-03-23
+100237,500ML Fanta Mango,CocaCola,CS,Mango,Water,Glass Bottle,2021-04-11
+100238,250ML Minute Maid Lemon,Minute Maid,CS,Cola,Water,PET Bottle,2021-11-05
+100239,400ML CocaCola Cola,Sprite,CS,Lemon,CSD,Can,2021-05-17
+100240,1000ML Minute Maid Orange,Fanta,CS,Cola,Juice,PET Bottle,2021-04-20
+100241,500ML Fanta Mango,Fanta,CS,Orange,Juice,Glass Bottle,2023-08-12
+100242,400ML Sprite Orange,Kinley,CS,Lemon,Juice,PET Bottle,2021-11-23
+100243,500ML Fanta Orange,Minute Maid,CS,Lemon,Water,Can,2023-03-05
+100244,1000ML CocaCola Orange,CocaCola,CS,Cola,Juice,PET Bottle,2023-04-15
+100245,1000ML Fanta Cola,Minute Maid,CS,Mango,Water,Can,2023-01-24
+100246,1000ML Kinley Mango,Fanta,CS,Orange,Water,PET Bottle,2023-06-28
+100247,500ML Fanta Lemon,Sprite,CS,Orange,CSD,Can,2023-09-08
+100248,500ML Kinley Orange,Kinley,CS,Lemon,Water,Can,2021-07-17
+100249,1000ML Minute Maid Lemon,CocaCola,CS,Orange,CSD,PET Bottle,2021-07-01
+100250,1000ML Kinley Mango,CocaCola,CS,Lemon,Juice,PET Bottle,2023-07-24
+100251,400ML Fanta Mango,CocaCola,CS,Lemon,CSD,Glass Bottle,2021-11-14
+100252,1000ML Fanta Lemon,Sprite,CS,Orange,CSD,Glass Bottle,2022-08-21
+100253,250ML Fanta Lemon,Fanta,CS,Lemon,CSD,Glass Bottle,2022-04-12
+100254,500ML CocaCola Orange,Fanta,CS,Mango,Water,Glass Bottle,2022-01-23
+100255,400ML Minute Maid Lemon,Minute Maid,CS,Lemon,Water,Can,2022-02-02
+100256,500ML Kinley Lemon,Minute Maid,CS,Mango,Juice,PET Bottle,2022-07-29
+100257,1000ML Sprite Cola,Fanta,CS,Mango,CSD,PET Bottle,2021-12-24
+100258,250ML Kinley Orange,CocaCola,CS,Mango,CSD,PET Bottle,2021-11-13
+100259,1000ML Fanta Orange,Sprite,CS,Orange,Juice,Can,2022-03-20
+100260,500ML Sprite Mango,Fanta,CS,Mango,Water,PET Bottle,2022-06-22
+100261,400ML Sprite Lemon,Sprite,CS,Orange,Water,PET Bottle,2021-09-21
+100262,500ML Kinley Cola,Kinley,CS,Cola,CSD,PET Bottle,2023-07-18
+100263,400ML Kinley Mango,CocaCola,CS,Mango,Water,Can,2021-10-03
+100264,250ML Kinley Cola,Kinley,CS,Lemon,Juice,PET Bottle,2022-09-19
+100265,1000ML Kinley Orange,Fanta,CS,Cola,Water,Can,2021-05-06
+100266,1000ML Minute Maid Lemon,Minute Maid,CS,Cola,CSD,Glass Bottle,2023-05-07
+100267,250ML CocaCola Cola,Fanta,CS,Mango,CSD,Can,2021-09-25
+100268,500ML CocaCola Mango,Kinley,CS,Orange,CSD,PET Bottle,2021-10-21
+100269,250ML Kinley Orange,Sprite,CS,Cola,Water,Can,2021-09-20
+100270,1000ML CocaCola Cola,Fanta,CS,Mango,Juice,Can,2023-09-11
+100271,400ML Kinley Cola,Minute Maid,CS,Cola,Water,Glass Bottle,2023-05-15
+100272,1000ML Kinley Mango,Kinley,CS,Cola,Juice,PET Bottle,2022-12-24
+100273,500ML Kinley Cola,Fanta,CS,Mango,Water,PET Bottle,2021-05-14
+100274,400ML Minute Maid Orange,Kinley,CS,Lemon,CSD,Glass Bottle,2022-05-21
+100275,500ML Fanta Cola,Kinley,CS,Lemon,Juice,PET Bottle,2023-03-09
+100276,1000ML CocaCola Lemon,CocaCola,CS,Lemon,CSD,PET Bottle,2023-02-02
+100277,1000ML CocaCola Lemon,Sprite,CS,Cola,Juice,Glass Bottle,2022-07-28
+100278,400ML Minute Maid Mango,CocaCola,CS,Orange,Juice,PET Bottle,2021-07-03
+100279,500ML Minute Maid Lemon,Kinley,CS,Orange,Juice,PET Bottle,2021-02-19
+100280,400ML Kinley Lemon,Minute Maid,CS,Cola,CSD,Can,2022-05-09
+100281,400ML Kinley Cola,Minute Maid,CS,Cola,Water,Glass Bottle,2021-05-14
+100282,500ML Fanta Orange,CocaCola,CS,Mango,Juice,PET Bottle,2023-06-30
+100283,400ML CocaCola Orange,Minute Maid,CS,Orange,Water,PET Bottle,2022-05-27
+100284,250ML Minute Maid Cola,Kinley,CS,Cola,Water,PET Bottle,2022-12-19
+100285,400ML Fanta Lemon,Fanta,CS,Lemon,CSD,Glass Bottle,2022-09-05
+100286,1000ML CocaCola Cola,Kinley,CS,Orange,Water,PET Bottle,2022-04-14
+100287,500ML Fanta Lemon,Fanta,CS,Cola,Juice,Can,2021-09-13
+100288,1000ML Fanta Lemon,Minute Maid,CS,Mango,Juice,PET Bottle,2022-03-14
+100289,250ML Kinley Lemon,Sprite,CS,Mango,CSD,Can,2023-01-29
+100290,250ML Fanta Orange,Sprite,CS,Orange,CSD,PET Bottle,2022-09-05
+100291,400ML Kinley Mango,Kinley,CS,Lemon,CSD,Glass Bottle,2021-12-24
+100292,1000ML CocaCola Orange,Kinley,CS,Orange,Juice,Glass Bottle,2023-03-06
+100293,400ML CocaCola Lemon,Minute Maid,CS,Cola,CSD,Glass Bottle,2022-01-08
+100294,400ML Kinley Cola,Sprite,CS,Lemon,CSD,PET Bottle,2022-11-21
+100295,1000ML Sprite Cola,Sprite,CS,Cola,Water,Glass Bottle,2022-02-19
+100296,250ML Fanta Lemon,Kinley,CS,Lemon,Juice,Glass Bottle,2021-10-05
+100297,250ML CocaCola Mango,Sprite,CS,Lemon,CSD,Can,2022-12-12
+100298,250ML Fanta Orange,Kinley,CS,Cola,CSD,PET Bottle,2023-02-27
+100299,500ML Sprite Orange,CocaCola,CS,Orange,Water,Can,2022-03-08
+100300,500ML Fanta Lemon,Sprite,CS,Mango,Juice,Can,2022-04-04
+100301,400ML Sprite Lemon,Fanta,CS,Lemon,Water,Glass Bottle,2021-11-23
+100302,500ML Minute Maid Mango,Minute Maid,CS,Lemon,Juice,PET Bottle,2022-10-05
+100303,500ML Sprite Orange,Kinley,CS,Mango,CSD,Glass Bottle,2022-11-12
+100304,1000ML CocaCola Mango,Sprite,CS,Orange,Juice,Can,2021-01-17
+100305,400ML Kinley Orange,Sprite,CS,Mango,CSD,PET Bottle,2023-01-29
+100306,400ML Kinley Mango,Kinley,CS,Orange,CSD,Glass Bottle,2023-01-01
+100307,1000ML Fanta Mango,Fanta,CS,Lemon,Water,Can,2022-01-18
+100308,250ML Minute Maid Mango,Sprite,CS,Lemon,Water,Can,2023-09-21
+100309,1000ML Fanta Cola,CocaCola,CS,Cola,Juice,PET Bottle,2021-12-12
+100310,250ML Sprite Cola,Minute Maid,CS,Orange,Water,PET Bottle,2023-04-27
+100311,400ML Kinley Cola,Kinley,CS,Mango,CSD,Can,2023-01-05
+100312,400ML Sprite Orange,Sprite,CS,Orange,CSD,PET Bottle,2022-06-15
+100313,500ML Kinley Mango,Minute Maid,CS,Orange,Juice,Can,2021-12-17
+100314,500ML Kinley Lemon,Kinley,CS,Orange,Juice,Can,2022-10-11
+100315,1000ML Kinley Lemon,Kinley,CS,Orange,CSD,Glass Bottle,2023-02-23
+100316,500ML CocaCola Orange,Kinley,CS,Mango,CSD,PET Bottle,2021-11-02
+100317,400ML Sprite Orange,Fanta,CS,Cola,CSD,Glass Bottle,2022-01-05
+100318,400ML Fanta Lemon,CocaCola,CS,Lemon,Juice,Can,2023-03-27
+100319,250ML Minute Maid Mango,Kinley,CS,Mango,Juice,PET Bottle,2023-08-20
+100320,500ML Fanta Cola,Fanta,CS,Mango,CSD,PET Bottle,2023-02-28
+100321,250ML Sprite Orange,Kinley,CS,Lemon,Water,Can,2023-06-10
+100322,400ML Minute Maid Orange,Kinley,CS,Cola,Juice,PET Bottle,2023-02-07
+100323,500ML Fanta Orange,Fanta,CS,Mango,Juice,Glass Bottle,2021-05-06
+100324,250ML Minute Maid Lemon,CocaCola,CS,Lemon,Juice,PET Bottle,2021-05-29
+100325,400ML Sprite Cola,Minute Maid,CS,Cola,Water,PET Bottle,2023-04-21
+100326,250ML Kinley Mango,Sprite,CS,Cola,Juice,Can,2022-04-09
+100327,500ML Sprite Mango,Kinley,CS,Orange,CSD,Can,2021-09-29
+100328,250ML CocaCola Lemon,CocaCola,CS,Mango,CSD,PET Bottle,2021-06-28
+100329,250ML Minute Maid Orange,Sprite,CS,Cola,CSD,Can,2021-06-26
+100330,400ML Sprite Lemon,Kinley,CS,Mango,CSD,PET Bottle,2021-10-26
+100331,500ML Kinley Lemon,Sprite,CS,Lemon,Juice,PET Bottle,2021-08-31
+100332,1000ML Kinley Mango,Fanta,CS,Mango,Water,PET Bottle,2021-08-05
+100333,1000ML Sprite Cola,CocaCola,CS,Cola,CSD,Can,2022-10-14
+100334,250ML Fanta Mango,CocaCola,CS,Lemon,Water,Can,2021-07-24
+100335,400ML Sprite Lemon,Minute Maid,CS,Lemon,Water,Can,2022-05-30
+100336,500ML Kinley Lemon,Minute Maid,CS,Orange,CSD,PET Bottle,2023-09-20
+100337,400ML Sprite Orange,Sprite,CS,Lemon,CSD,Glass Bottle,2022-02-25
+100338,500ML CocaCola Orange,Fanta,CS,Cola,Juice,Can,2022-02-05
+100339,400ML Fanta Lemon,Sprite,CS,Orange,CSD,Can,2023-08-29
+100340,1000ML Sprite Mango,Kinley,CS,Cola,CSD,Can,2022-02-14
+100341,1000ML Kinley Orange,CocaCola,CS,Cola,Juice,Glass Bottle,2022-11-27
+100342,1000ML Sprite Cola,Sprite,CS,Orange,Water,PET Bottle,2021-07-27
+100343,400ML Sprite Cola,Sprite,CS,Orange,Water,Can,2021-04-03
+100344,400ML Minute Maid Lemon,CocaCola,CS,Mango,CSD,Glass Bottle,2022-09-17
+100345,250ML Sprite Cola,CocaCola,CS,Cola,CSD,Glass Bottle,2022-01-28
+100346,1000ML CocaCola Cola,Minute Maid,CS,Mango,Juice,Glass Bottle,2021-12-25
+100347,250ML Kinley Orange,Minute Maid,CS,Lemon,Juice,Glass Bottle,2023-05-26
+100348,400ML Minute Maid Orange,CocaCola,CS,Lemon,CSD,Glass Bottle,2023-05-11
+100349,500ML Sprite Mango,Sprite,CS,Mango,CSD,Can,2022-10-25
+100350,1000ML Fanta Orange,Kinley,CS,Orange,Juice,PET Bottle,2022-01-29
+100351,1000ML CocaCola Mango,Sprite,CS,Lemon,Water,Can,2023-09-19
+100352,1000ML CocaCola Orange,Kinley,CS,Orange,Water,Glass Bottle,2021-06-01
+100353,1000ML CocaCola Lemon,CocaCola,CS,Mango,Water,Glass Bottle,2023-01-25
+100354,1000ML Minute Maid Mango,Kinley,CS,Orange,Water,Can,2021-05-19
+100355,400ML Sprite Lemon,Minute Maid,CS,Cola,Water,Glass Bottle,2023-07-13
+100356,1000ML CocaCola Mango,CocaCola,CS,Lemon,CSD,Can,2021-06-15
+100357,1000ML Sprite Cola,Fanta,CS,Orange,CSD,PET Bottle,2021-09-28
+100358,250ML Fanta Mango,Kinley,CS,Orange,Water,PET Bottle,2022-05-26
+100359,500ML Sprite Mango,Kinley,CS,Cola,CSD,Glass Bottle,2022-03-01
+100360,1000ML Sprite Mango,Fanta,CS,Orange,Water,Can,2022-06-13
+100361,250ML Sprite Mango,Fanta,CS,Mango,CSD,PET Bottle,2022-10-04
+100362,400ML Kinley Mango,CocaCola,CS,Mango,Juice,Glass Bottle,2021-03-05
+100363,250ML Minute Maid Cola,Sprite,CS,Mango,Water,Glass Bottle,2022-02-18
+100364,1000ML Sprite Mango,Fanta,CS,Lemon,CSD,Can,2021-11-18
+100365,250ML CocaCola Lemon,Kinley,CS,Orange,CSD,Can,2023-04-22
+100366,250ML Kinley Mango,Fanta,CS,Lemon,Water,PET Bottle,2021-03-11
+100367,400ML Sprite Mango,CocaCola,CS,Lemon,CSD,Glass Bottle,2022-10-17
+100368,250ML Kinley Lemon,CocaCola,CS,Orange,CSD,Glass Bottle,2023-06-27
+100369,400ML Minute Maid Orange,Kinley,CS,Orange,Water,PET Bottle,2021-04-07
+100370,400ML Kinley Orange,Kinley,CS,Mango,CSD,Can,2023-01-11
+100371,250ML CocaCola Cola,Kinley,CS,Lemon,CSD,Glass Bottle,2021-02-07
+100372,1000ML Sprite Mango,Sprite,CS,Lemon,CSD,PET Bottle,2022-04-24
+100373,500ML CocaCola Mango,Kinley,CS,Orange,Juice,Can,2021-02-14
+100374,250ML Fanta Orange,CocaCola,CS,Lemon,Water,Can,2022-07-28
+100375,250ML Kinley Mango,CocaCola,CS,Cola,Water,Glass Bottle,2023-05-05
+100376,250ML Kinley Cola,Fanta,CS,Orange,CSD,Glass Bottle,2022-03-19
+100377,500ML Kinley Lemon,Kinley,CS,Mango,Juice,Glass Bottle,2022-08-31
+100378,500ML Minute Maid Mango,Sprite,CS,Cola,Juice,PET Bottle,2021-08-31
+100379,400ML CocaCola Lemon,Minute Maid,CS,Cola,Water,Glass Bottle,2023-07-30
+100380,500ML Fanta Cola,Fanta,CS,Mango,Juice,Can,2021-05-04
+100381,500ML Minute Maid Orange,Sprite,CS,Cola,CSD,Glass Bottle,2021-01-11
+100382,250ML Minute Maid Cola,Kinley,CS,Cola,Juice,Can,2021-05-31
+100383,400ML Sprite Cola,Sprite,CS,Cola,Juice,Can,2021-06-20
+100384,1000ML Fanta Cola,Minute Maid,CS,Lemon,Juice,Glass Bottle,2021-03-19
+100385,400ML Kinley Cola,Sprite,CS,Cola,CSD,Glass Bottle,2022-09-15
+100386,500ML Kinley Lemon,Minute Maid,CS,Cola,Juice,Can,2021-04-02
+100387,500ML Sprite Cola,Minute Maid,CS,Orange,Juice,Glass Bottle,2023-08-13
+100388,250ML Kinley Cola,Minute Maid,CS,Mango,CSD,Can,2022-05-15
+100389,1000ML CocaCola Cola,Sprite,CS,Lemon,Juice,Can,2021-05-24
+100390,1000ML Kinley Cola,Kinley,CS,Lemon,CSD,PET Bottle,2022-06-23
+100391,1000ML CocaCola Lemon,CocaCola,CS,Mango,Juice,Glass Bottle,2022-08-19
+100392,500ML Sprite Cola,CocaCola,CS,Lemon,CSD,PET Bottle,2023-04-05
+100393,500ML Sprite Orange,Sprite,CS,Lemon,Juice,Glass Bottle,2021-01-31
+100394,400ML CocaCola Cola,Kinley,CS,Lemon,CSD,PET Bottle,2022-10-24
+100395,500ML Kinley Cola,CocaCola,CS,Orange,Water,Glass Bottle,2021-07-10
+100396,1000ML Sprite Mango,Minute Maid,CS,Orange,Juice,Glass Bottle,2021-06-21
+100397,1000ML Sprite Mango,Sprite,CS,Lemon,CSD,Can,2023-09-07
+100398,1000ML CocaCola Mango,Sprite,CS,Mango,Juice,PET Bottle,2021-06-02
+100399,250ML Sprite Cola,Fanta,CS,Mango,Water,PET Bottle,2021-10-04
+100400,400ML Kinley Orange,Fanta,CS,Orange,Juice,PET Bottle,2023-03-04
+100401,400ML Sprite Orange,Fanta,CS,Orange,CSD,Can,2022-08-09
+100402,500ML CocaCola Mango,Kinley,CS,Cola,Juice,Can,2021-11-29
+100403,250ML Kinley Mango,Sprite,CS,Orange,Juice,PET Bottle,2021-01-21
+100404,400ML Fanta Cola,Fanta,CS,Lemon,Water,Can,2021-06-25
+100405,250ML CocaCola Orange,Sprite,CS,Orange,CSD,PET Bottle,2022-10-12
+100406,250ML Fanta Orange,Minute Maid,CS,Cola,CSD,Can,2021-05-02
+100407,500ML Sprite Mango,Fanta,CS,Cola,Juice,PET Bottle,2021-02-21
+100408,250ML Kinley Orange,Sprite,CS,Mango,Juice,Can,2023-03-04
+100409,400ML Sprite Mango,Kinley,CS,Mango,Water,Glass Bottle,2023-05-25
+100410,500ML Kinley Mango,Kinley,CS,Lemon,Water,Can,2023-03-12
+100411,400ML Minute Maid Lemon,Kinley,CS,Orange,Water,PET Bottle,2022-04-17
+100412,250ML Sprite Lemon,Fanta,CS,Cola,CSD,Can,2021-01-03
+100413,250ML Sprite Cola,Kinley,CS,Cola,Juice,PET Bottle,2021-09-18
+100414,1000ML Sprite Mango,CocaCola,CS,Mango,CSD,PET Bottle,2022-01-25
+100415,500ML CocaCola Cola,Minute Maid,CS,Mango,Water,Can,2022-12-26
+100416,500ML Kinley Lemon,Sprite,CS,Orange,Juice,Can,2023-07-27
+100417,1000ML Kinley Orange,CocaCola,CS,Cola,Water,Glass Bottle,2023-09-23
+100418,400ML Kinley Lemon,Fanta,CS,Mango,Water,PET Bottle,2023-06-09
+100419,400ML CocaCola Lemon,Sprite,CS,Orange,Water,PET Bottle,2022-02-19
+100420,250ML Kinley Lemon,Sprite,CS,Orange,Water,Can,2022-01-17
+100421,500ML Sprite Orange,Kinley,CS,Orange,CSD,Glass Bottle,2023-08-15
+100422,250ML Fanta Lemon,Sprite,CS,Mango,CSD,PET Bottle,2021-02-23
+100423,1000ML Minute Maid Mango,Sprite,CS,Mango,CSD,Can,2022-11-12
+100424,250ML Kinley Mango,Minute Maid,CS,Mango,CSD,Glass Bottle,2022-09-05
+100425,400ML CocaCola Lemon,Fanta,CS,Lemon,CSD,Glass Bottle,2022-07-05
+100426,400ML CocaCola Cola,CocaCola,CS,Lemon,CSD,PET Bottle,2022-04-24
+100427,1000ML Kinley Cola,Kinley,CS,Lemon,Juice,Glass Bottle,2023-02-04
+100428,400ML Fanta Orange,Minute Maid,CS,Mango,Juice,Glass Bottle,2021-08-25
+100429,1000ML Kinley Orange,CocaCola,CS,Mango,Water,Glass Bottle,2021-11-02
+100430,500ML CocaCola Mango,CocaCola,CS,Lemon,Juice,Can,2021-07-27
+100431,1000ML Minute Maid Mango,Minute Maid,CS,Cola,Juice,PET Bottle,2022-08-09
+100432,1000ML Fanta Lemon,Kinley,CS,Cola,Water,Can,2023-05-07
+100433,1000ML Kinley Cola,Fanta,CS,Cola,Water,PET Bottle,2022-12-07
+100434,400ML Minute Maid Mango,Minute Maid,CS,Cola,Juice,Can,2022-06-08
+100435,500ML Kinley Cola,Minute Maid,CS,Lemon,Juice,PET Bottle,2021-01-22
+100436,250ML Fanta Orange,Minute Maid,CS,Orange,Water,Glass Bottle,2021-08-07
+100437,500ML CocaCola Orange,Kinley,CS,Orange,Water,Glass Bottle,2021-06-21
+100438,400ML Fanta Lemon,Minute Maid,CS,Cola,Juice,Glass Bottle,2023-01-20
+100439,500ML Sprite Lemon,Minute Maid,CS,Mango,Juice,Glass Bottle,2023-07-02
+100440,500ML Kinley Mango,Sprite,CS,Cola,Water,Can,2022-03-01
+100441,1000ML Minute Maid Cola,Sprite,CS,Cola,Juice,PET Bottle,2022-08-28
+100442,1000ML Minute Maid Mango,Sprite,CS,Orange,Water,Can,2021-05-31
+100443,400ML Fanta Mango,Sprite,CS,Mango,Water,PET Bottle,2022-12-06
+100444,1000ML Fanta Cola,Minute Maid,CS,Orange,Water,Can,2021-07-04
+100445,400ML Fanta Mango,Sprite,CS,Mango,Juice,Can,2021-08-22
+100446,250ML Minute Maid Lemon,CocaCola,CS,Lemon,CSD,PET Bottle,2022-02-11
+100447,500ML CocaCola Cola,Fanta,CS,Orange,CSD,Can,2022-10-22
+100448,250ML Minute Maid Cola,Sprite,CS,Lemon,Juice,PET Bottle,2022-05-17
+100449,250ML CocaCola Mango,Kinley,CS,Lemon,Water,PET Bottle,2021-02-26
+100450,500ML Fanta Cola,Fanta,CS,Cola,Water,Can,2021-01-18
+100451,1000ML Sprite Lemon,CocaCola,CS,Mango,CSD,Can,2022-07-27
+100452,250ML Minute Maid Lemon,Fanta,CS,Orange,Juice,Can,2022-01-05
+100453,500ML Fanta Orange,Fanta,CS,Cola,CSD,Can,2021-08-19
+100454,250ML Minute Maid Orange,CocaCola,CS,Orange,Water,Glass Bottle,2023-03-23
+100455,250ML Fanta Orange,Sprite,CS,Lemon,Juice,PET Bottle,2021-09-14
+100456,500ML Minute Maid Orange,CocaCola,CS,Orange,Juice,Can,2022-08-30
+100457,1000ML Kinley Mango,Kinley,CS,Orange,Juice,Glass Bottle,2021-07-17
+100458,400ML Minute Maid Orange,CocaCola,CS,Cola,CSD,Can,2021-02-03
+100459,500ML Kinley Orange,Minute Maid,CS,Mango,Juice,PET Bottle,2021-09-04
+100460,400ML CocaCola Orange,Minute Maid,CS,Orange,CSD,Can,2021-02-23
+100461,500ML Minute Maid Orange,Fanta,CS,Lemon,CSD,Can,2023-08-13
+100462,500ML CocaCola Mango,Sprite,CS,Lemon,CSD,Can,2021-04-06
+100463,400ML Sprite Orange,Sprite,CS,Cola,CSD,Glass Bottle,2021-10-22
+100464,400ML Kinley Cola,Minute Maid,CS,Lemon,CSD,PET Bottle,2022-11-19
+100465,1000ML Minute Maid Lemon,Kinley,CS,Orange,Water,Can,2021-07-13
+100466,500ML CocaCola Cola,CocaCola,CS,Mango,Juice,Glass Bottle,2021-06-22
+100467,500ML Fanta Mango,CocaCola,CS,Orange,Water,Can,2021-07-31
+100468,500ML CocaCola Mango,CocaCola,CS,Cola,Juice,PET Bottle,2021-03-31
+100469,1000ML Minute Maid Mango,Kinley,CS,Lemon,CSD,Can,2023-01-27
+100470,400ML Sprite Lemon,Kinley,CS,Orange,CSD,Can,2021-03-04
+100471,500ML Kinley Orange,CocaCola,CS,Orange,Juice,PET Bottle,2023-06-27
+100472,400ML Fanta Mango,CocaCola,CS,Lemon,Water,PET Bottle,2022-11-02
+100473,1000ML CocaCola Orange,Kinley,CS,Mango,CSD,Can,2021-11-29
+100474,250ML Minute Maid Mango,CocaCola,CS,Mango,CSD,PET Bottle,2021-02-18
+100475,400ML Minute Maid Lemon,Kinley,CS,Mango,CSD,Can,2021-01-03
+100476,1000ML Kinley Cola,Fanta,CS,Lemon,CSD,Glass Bottle,2021-03-16
+100477,250ML Fanta Cola,Minute Maid,CS,Orange,Juice,Glass Bottle,2023-02-04
+100478,500ML CocaCola Lemon,Minute Maid,CS,Cola,Water,Can,2022-02-12
+100479,500ML CocaCola Orange,Kinley,CS,Orange,CSD,PET Bottle,2021-06-28
+100480,400ML CocaCola Mango,CocaCola,CS,Lemon,CSD,Can,2021-10-05
+100481,250ML Kinley Cola,Minute Maid,CS,Lemon,Water,Can,2022-03-09
+100482,1000ML Kinley Lemon,Sprite,CS,Orange,Juice,Glass Bottle,2022-06-30
+100483,500ML Fanta Orange,CocaCola,CS,Lemon,Water,Can,2023-05-02
+100484,500ML CocaCola Cola,Kinley,CS,Orange,Water,Can,2021-05-10
+100485,250ML CocaCola Lemon,Sprite,CS,Orange,Juice,Glass Bottle,2021-07-20
+100486,1000ML Fanta Mango,Kinley,CS,Mango,Water,Can,2022-01-27
+100487,500ML Fanta Lemon,CocaCola,CS,Lemon,Juice,Can,2022-12-25
+100488,500ML Fanta Orange,Fanta,CS,Lemon,Water,Can,2021-01-17
+100489,400ML Minute Maid Cola,Fanta,CS,Mango,Water,Can,2023-04-13
+100490,1000ML Fanta Mango,Fanta,CS,Mango,CSD,Can,2022-03-21
+100491,500ML Sprite Orange,CocaCola,CS,Mango,Juice,Can,2022-02-03
+100492,250ML Kinley Lemon,CocaCola,CS,Cola,CSD,Can,2021-07-05
+100493,500ML Fanta Cola,Sprite,CS,Lemon,Juice,PET Bottle,2021-02-04
+100494,1000ML Minute Maid Cola,CocaCola,CS,Orange,CSD,PET Bottle,2022-11-19
+100495,400ML Sprite Orange,CocaCola,CS,Orange,Water,Glass Bottle,2022-11-20
+100496,500ML Minute Maid Mango,Sprite,CS,Orange,CSD,Can,2022-09-17
+100497,250ML Minute Maid Orange,Sprite,CS,Lemon,CSD,PET Bottle,2023-05-31
+100498,500ML Minute Maid Cola,Kinley,CS,Cola,Juice,Glass Bottle,2022-01-03
+100499,250ML Minute Maid Cola,Minute Maid,CS,Lemon,Water,Glass Bottle,2023-01-13
